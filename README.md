@@ -33,3 +33,4 @@ CRUDアプリについて、昔研修で使ったものから課題出します�
 * デバッガを利用できるようにしてください。
 * Migration/Seedingでデータ管理できるようにしてください。
 * POST/PUT APIはバリデーションエラーを返せるようにしてください。
+* ![スクリーンショット 2023-12-05 14 19 20 (1)](https://github.com/suzuken-ov/practice_backend/assets/146830674/3f762940-5f3d-49dd-a4c0-2223caa15833)
